@@ -1,0 +1,15 @@
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\bin\x86\Debug\Reporte.exe.config
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\bin\x86\Debug\venta.mdb
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\bin\x86\Debug\Reporte.exe
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\bin\x86\Debug\Reporte.pdb
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.Properties.Resources.resources
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.Vista.frmPrincipal.resources
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.Vista.Reporte.frmRepListaVenta.resources
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.csproj.GenerateResource.Cache
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.exe
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.pdb
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.csprojResolveAssemblyReference.cache
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.Vista.frmVentaDetalle.resources
+C:\Users\Jhonny\Documents\Programas\Reporte\Reporte\obj\x86\Debug\Reporte.Vista.frmVentaLista.resources
